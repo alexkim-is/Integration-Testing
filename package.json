@@ -1,0 +1,33 @@
+{
+  "name": "alex-integration-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "chai": "^3.5.0",
+    "express": "^4.14.1",
+    "nodemon": "^1.11.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkim-is/Integration-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexkim-is/Integration-Testing/issues"
+  },
+  "homepage": "https://github.com/alexkim-is/Integration-Testing#readme"
+}
